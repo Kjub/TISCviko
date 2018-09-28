@@ -1,4 +1,4 @@
-# Uloha o hanoiskych veziach
+﻿# Uloha o hanoiskych veziach
 
 V klastore v Hanoi je veza z okruhlych diskovych kamenov napichnutych na stlpe 1. 
 Mnisi sa snazia prelozit celu vezu na stlp 2, pricom mozu pouzit stlp 3. 
@@ -13,7 +13,7 @@ kolko kamenov mnisi prekladaju...
 Nas tim tvoria clenovia:
 
 1.Jakub Soviš
-2.
+2.Klaudia Turcekova
 3.
 4.
 
