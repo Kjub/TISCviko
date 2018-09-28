@@ -15,5 +15,5 @@ Nas tim tvoria clenovia:
 1.Jakub Soviš
 2.Klaudia Turcekova
 3.Lukáš Slaninka
-4.
+4.Jan Zdarilek
 
